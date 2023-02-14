@@ -1,6 +1,5 @@
 const Tutorial = require("../models/tutorial.model.js");
-
-
+ 
 //Create and Save a new Tutorial
 exports.create = (req, save) => {
 
